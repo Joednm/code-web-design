@@ -1,0 +1,19 @@
+* {
+   color: red;
+}
+h2 {
+/* Apply a border to h2 element */   
+   border: 2px solid black;
+   margin: 40px; 
+/*    padding: 30px; */
+   background-color: lightblue;
+   height: 20%
+}
+
+img {
+   width: 40%;
+   height: auto;  
+}
+
+/* top & bottom:10px, right & left:20px */
+h2 {padding: 10px 20px;} 

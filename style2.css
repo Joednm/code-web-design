@@ -1,0 +1,22 @@
+* {
+    color: red;
+}
+
+h2 {
+   border: 2px solid black;
+   margin: 40%;
+/*    padding 30px; */
+   background-color: lightblue;
+   height: 10%;
+}   
+
+img {
+   display: inline-block;
+   margin: 0; /* Change this to fit image*/
+}
+
+/* top & bottom:10px, right & left:20px */
+h2 {padding; 0; 20px;
+}   
+
+ 
